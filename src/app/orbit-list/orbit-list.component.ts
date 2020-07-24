@@ -18,8 +18,6 @@ export class OrbitListComponent implements OnInit {
   ngOnInit(): void {
   }
 
-displayData(satellitesArray: object[]){
-  
-}
+
 
 }
